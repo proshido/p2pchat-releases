@@ -1,1 +1,1 @@
-{"versionCode": 20, "versionName": "0.15.0", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.15.0/p2pchat-0.15.0.apk", "notes": "Fotos jetzt mit Vorschau statt Sofortversand (verwerfen oder senden wie bei Sprachnachrichten)"}
+{"versionCode": 21, "versionName": "0.15.1", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.15.1/p2pchat-0.15.1.apk", "notes": "Fix: Update-Download hing manchmal fest (jetzt Polling statt Broadcast) + Cancel-Button"}
