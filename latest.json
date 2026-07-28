@@ -1,1 +1,1 @@
-{"versionCode": 11, "versionName": "0.9.0", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.9.0/p2pchat-0.9.0.apk", "notes": "GitHub-Releases als primäre Download-Quelle"}
+{"versionCode": 12, "versionName": "0.10.0", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.10.0/p2pchat-0.10.0.apk", "notes": "Senden bleibt möglich, wenn die Gegenseite offline ist (lokaler Sende-Puffer, automatischer Reconnect)"}
