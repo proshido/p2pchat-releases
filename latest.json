@@ -1,1 +1,1 @@
-{"versionCode": 31, "versionName": "0.22.0", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.22.0/p2pchat-0.22.0.apk", "notes": "Plus-Button pulsiert ohne Chats, Popup mit drei Buttons (Scan/Import/eigenen QR-Code zeigen), QR-Code aus Settings entfernt"}
+{"versionCode": 32, "versionName": "0.23.0", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.23.0/p2pchat-0.23.0.apk", "notes": "Share-Button direkt im QR-Popup, App-Icon im QR-Code eingebettet, Chat-Fenster bekommt dieselbe Wisch-Fußzeile wie Chats/Settings"}
