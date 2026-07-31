@@ -1,1 +1,1 @@
-{"versionCode": 51, "versionName": "0.51", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.51/p2pchat-0.51.apk", "notes": "Theme modes (light/dark/system), chat UI polish, connection/unread-badge fixes"}
+{"versionCode": 52, "versionName": "0.52", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.52/p2pchat-0.52.apk", "notes": "Dark mode contrast fixes (dialogs, switch, chat input, header/danger colors), avatar flicker fix, unread-badge fix"}
