@@ -1,1 +1,1 @@
-{"versionCode": 57, "versionName": "0.57", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.57/p2pchat-0.57.apk", "notes": "Reaktions-Popup: Mülleimer jetzt vorne mit Trenner vor den Emojis (Web-Parität)"}
+{"versionCode": 58, "versionName": "0.58", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.58/p2pchat-0.58.apk", "notes": "fix: Reaktions-Popup-'+' war bei eigenen Nachrichten hinter dem geclippten Rand versteckt"}
