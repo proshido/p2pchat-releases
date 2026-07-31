@@ -1,1 +1,1 @@
-{"versionCode": 55, "versionName": "0.55", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.55/p2pchat-0.55.apk", "notes": "fix: Absturz behoben, wenn der Signaling-Transport während Offer/Answer-Versand wegfällt"}
+{"versionCode": 56, "versionName": "0.56", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.56/p2pchat-0.56.apk", "notes": "fix: add-contact-Menü und eigenes QR-Popup jetzt identisch groß/positioniert"}
