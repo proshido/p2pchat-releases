@@ -1,1 +1,1 @@
-{"versionCode": 72, "versionName": "0.72", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.72/p2pchat-0.72.apk", "notes": "Chat list is sorted by latest message and shows the last message with its time and ticks instead of the name."}
+{"versionCode": 73, "versionName": "0.73", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.73/p2pchat-0.73.apk", "notes": "Chat list: direction arrow before the time, and a hold menu with delete and pin. Pinned chats stay on top. Tidier reaction picker."}
