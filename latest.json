@@ -1,1 +1,1 @@
-{"versionCode": 70, "versionName": "0.70", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.70/p2pchat-0.70.apk", "notes": "Every button now gives a haptic click, settings switches too; \"change\" and the two delete actions are real buttons."}
+{"versionCode": 71, "versionName": "0.71", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.71/p2pchat-0.71.apk", "notes": "Chat header now shows only your partner's picture; your own picture is in settings. QR scanner errors are no longer silent."}
