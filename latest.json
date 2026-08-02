@@ -1,1 +1,1 @@
-{"versionCode": 76, "versionName": "0.76", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.76/p2pchat-0.76.apk", "notes": "Date separator now uses a neutral colour instead of the chat partner's bubble colour."}
+{"versionCode": 77, "versionName": "0.77", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.77/p2pchat-0.77.apk", "notes": "Date and time now follow your device's language: 24h and dd.MM.yyyy, or 12h AM/PM and MM/dd/yyyy."}
