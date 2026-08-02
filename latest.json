@@ -1,1 +1,1 @@
-{"versionCode": 75, "versionName": "0.75", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.75/p2pchat-0.75.apk", "notes": "Fixes unreadable text on the date separator, the reply bar and the reaction picker's plus."}
+{"versionCode": 76, "versionName": "0.76", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.76/p2pchat-0.76.apk", "notes": "Date separator now uses a neutral colour instead of the chat partner's bubble colour."}
