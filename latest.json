@@ -1,1 +1,1 @@
-{"versionCode": 65, "versionName": "0.65", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.65/p2pchat-0.65.apk", "notes": "Timestamps and date separators in chat; fixed read receipts sometimes not appearing when a contact reconnected; clearer camera error on iPhone (use image import instead)."}
+{"versionCode": 66, "versionName": "0.66", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.66/p2pchat-0.66.apk", "notes": "Hold the \"…\" button, slide your thumb up to an entry and release to pick it; release on the dots to close."}
