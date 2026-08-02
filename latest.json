@@ -1,1 +1,1 @@
-{"versionCode": 71, "versionName": "0.71", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.71/p2pchat-0.71.apk", "notes": "Chat header now shows only your partner's picture; your own picture is in settings. QR scanner errors are no longer silent."}
+{"versionCode": 72, "versionName": "0.72", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.72/p2pchat-0.72.apk", "notes": "Chat list is sorted by latest message and shows the last message with its time and ticks instead of the name."}
