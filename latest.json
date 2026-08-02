@@ -1,1 +1,1 @@
-{"versionCode": 64, "versionName": "0.64", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.64/p2pchat-0.64.apk", "notes": "fix: Standort-Nachricht jetzt großes pulsierendes Satelliten-Emoji, kein Rahmen mehr"}
+{"versionCode": 65, "versionName": "0.65", "url": "https://github.com/proshido/p2pchat-releases/releases/download/v0.65/p2pchat-0.65.apk", "notes": "Timestamps and date separators in chat; fixed read receipts sometimes not appearing when a contact reconnected; clearer camera error on iPhone (use image import instead)."}
